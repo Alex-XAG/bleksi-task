@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bleksi-task/static/css/main.7acaea2f.css",
+    "main.js": "/bleksi-task/static/js/main.07d3183d.js",
+    "index.html": "/bleksi-task/index.html",
+    "main.7acaea2f.css.map": "/bleksi-task/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/bleksi-task/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
